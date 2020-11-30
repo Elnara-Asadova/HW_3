@@ -10,7 +10,6 @@ public class Main {
         Season season;
         Scanner in = new Scanner(System.in);
         String month = in.nextLine();
-        //String month = System.console().readLine();
         switch (month) {
             case "December":
             case "January":
